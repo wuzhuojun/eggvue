@@ -1,0 +1,8 @@
+2018-02-27 12:14:24,253 INFO 13832 [egg-logview] mount log d:\code\easywebpack\eggvue\logs at http://127.0.0.1:7001/__logs
+2018-02-27 12:14:24,254 INFO 14196 [egg-logview] mount log d:\code\easywebpack\eggvue\logs at http://127.0.0.1:7001/__logs
+2018-02-27 12:14:24,299 INFO 8384 [egg-logview] mount log d:\code\easywebpack\eggvue\logs at http://127.0.0.1:7001/__logs
+2018-02-27 12:14:24,349 INFO 13924 [egg-logview] mount log d:\code\easywebpack\eggvue\logs at http://127.0.0.1:7001/__logs
+2018-02-27 12:14:36,245 INFO 13924 [-/127.0.0.1/-/107ms GET /] [access] 127.0.0.1: - GET / HTTP/200 191626 - 99 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-02-27 12:14:48,017 INFO 13924 [-/127.0.0.1/-/7ms GET /client] [access] 127.0.0.1: - GET /client HTTP/200 2841 http://127.0.0.1:7001/ 5 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-02-27 12:14:49,292 INFO 14196 [-/127.0.0.1/-/342ms GET /element] [access] 127.0.0.1: - GET /element HTTP/200 384949 http://127.0.0.1:7001/client 338 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-02-27 12:14:51,429 INFO 13924 [-/127.0.0.1/-/2ms GET /pager?pageIndex=4&pageSize=10] [access] 127.0.0.1: - GET /pager?pageIndex=4&pageSize=10 HTTP/200 1862 http://127.0.0.1:7001/element 2 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36

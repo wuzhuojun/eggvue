@@ -1,0 +1,52 @@
+2018-02-27 12:14:24,137 INFO 13832 [egg:logger] init all loggers with options: {"dir":"d:\\code\\easywebpack\\eggvue\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggvue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-27 12:14:24,177 INFO 13832 [egg-schedule]: register schedule d:\code\easywebpack\eggvue\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-02-27 12:14:24,179 INFO 13832 [egg-schedule]: register schedule d:\code\easywebpack\eggvue\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-02-27 12:14:24,246 INFO 13832 [egg-static] starting static serve /public/ -> d:\code\easywebpack\eggvue\public
+2018-02-27 12:14:24,250 INFO 13832 [egg-security] use csrf middleware
+2018-02-27 12:14:24,250 INFO 13832 [egg-security] use methodnoallow middleware
+2018-02-27 12:14:24,252 INFO 13832 [egg-security] use noopen middleware
+2018-02-27 12:14:24,252 INFO 13832 [egg-security] use nosniff middleware
+2018-02-27 12:14:24,252 INFO 13832 [egg-security] use xssProtection middleware
+2018-02-27 12:14:24,252 INFO 13832 [egg-security] use xframe middleware
+2018-02-27 12:14:24,253 INFO 13832 [egg-security] use dta middleware
+2018-02-27 12:14:24,253 INFO 13832 [egg-security] compose 7 middlewares into one security middleware
+2018-02-27 12:14:24,313 INFO 13832 [egg-watcher:app] watcher start success
+2018-02-27 12:14:24,138 INFO 14196 [egg:logger] init all loggers with options: {"dir":"d:\\code\\easywebpack\\eggvue\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggvue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-27 12:14:24,181 INFO 14196 [egg-schedule]: register schedule d:\code\easywebpack\eggvue\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-02-27 12:14:24,181 INFO 14196 [egg-schedule]: register schedule d:\code\easywebpack\eggvue\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-02-27 12:14:24,247 INFO 14196 [egg-static] starting static serve /public/ -> d:\code\easywebpack\eggvue\public
+2018-02-27 12:14:24,251 INFO 14196 [egg-security] use csrf middleware
+2018-02-27 12:14:24,251 INFO 14196 [egg-security] use methodnoallow middleware
+2018-02-27 12:14:24,252 INFO 14196 [egg-security] use noopen middleware
+2018-02-27 12:14:24,252 INFO 14196 [egg-security] use nosniff middleware
+2018-02-27 12:14:24,253 INFO 14196 [egg-security] use xssProtection middleware
+2018-02-27 12:14:24,253 INFO 14196 [egg-security] use xframe middleware
+2018-02-27 12:14:24,254 INFO 14196 [egg-security] use dta middleware
+2018-02-27 12:14:24,254 INFO 14196 [egg-security] compose 7 middlewares into one security middleware
+2018-02-27 12:14:24,315 INFO 14196 [egg-watcher:app] watcher start success
+2018-02-27 12:14:24,172 INFO 8384 [egg:logger] init all loggers with options: {"dir":"d:\\code\\easywebpack\\eggvue\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggvue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-27 12:14:24,216 INFO 8384 [egg-schedule]: register schedule d:\code\easywebpack\eggvue\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-02-27 12:14:24,217 INFO 8384 [egg-schedule]: register schedule d:\code\easywebpack\eggvue\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-02-27 12:14:24,288 INFO 8384 [egg-static] starting static serve /public/ -> d:\code\easywebpack\eggvue\public
+2018-02-27 12:14:24,295 INFO 8384 [egg-security] use csrf middleware
+2018-02-27 12:14:24,297 INFO 8384 [egg-security] use methodnoallow middleware
+2018-02-27 12:14:24,297 INFO 8384 [egg-security] use noopen middleware
+2018-02-27 12:14:24,297 INFO 8384 [egg-security] use nosniff middleware
+2018-02-27 12:14:24,298 INFO 8384 [egg-security] use xssProtection middleware
+2018-02-27 12:14:24,298 INFO 8384 [egg-security] use xframe middleware
+2018-02-27 12:14:24,299 INFO 8384 [egg-security] use dta middleware
+2018-02-27 12:14:24,299 INFO 8384 [egg-security] compose 7 middlewares into one security middleware
+2018-02-27 12:14:24,372 INFO 8384 [egg-watcher:app] watcher start success
+2018-02-27 12:14:24,209 INFO 13924 [egg:logger] init all loggers with options: {"dir":"d:\\code\\easywebpack\\eggvue\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggvue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-27 12:14:24,254 INFO 13924 [egg-schedule]: register schedule d:\code\easywebpack\eggvue\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-02-27 12:14:24,254 INFO 13924 [egg-schedule]: register schedule d:\code\easywebpack\eggvue\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-02-27 12:14:24,341 INFO 13924 [egg-static] starting static serve /public/ -> d:\code\easywebpack\eggvue\public
+2018-02-27 12:14:24,345 INFO 13924 [egg-security] use csrf middleware
+2018-02-27 12:14:24,346 INFO 13924 [egg-security] use methodnoallow middleware
+2018-02-27 12:14:24,346 INFO 13924 [egg-security] use noopen middleware
+2018-02-27 12:14:24,348 INFO 13924 [egg-security] use nosniff middleware
+2018-02-27 12:14:24,348 INFO 13924 [egg-security] use xssProtection middleware
+2018-02-27 12:14:24,348 INFO 13924 [egg-security] use xframe middleware
+2018-02-27 12:14:24,348 INFO 13924 [egg-security] use dta middleware
+2018-02-27 12:14:24,348 INFO 13924 [egg-security] compose 7 middlewares into one security middleware
+2018-02-27 12:14:24,416 INFO 13924 [egg-watcher:app] watcher start success
